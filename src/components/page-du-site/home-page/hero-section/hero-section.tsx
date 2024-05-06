@@ -23,4 +23,3 @@ export default function HeroView(){
 
     )   
 }
-//https://github.com/zaaboulben/pic-banque-v1.git
