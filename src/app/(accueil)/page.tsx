@@ -1,6 +1,6 @@
 import MainButton from "@/components/button/button-principal";
 import SecondaryButton from "@/components/button/button-secondaire";
-import TertiaryButton from "@/components/button/buuton-tertiaire";
+import TertiaryButton from "@/components/button/button-tertiaire";
 import LogoMain from "@/components/logo/logo-navbar";
 import NavbarMain from "@/components/navigation/navbar/navbar-main";
 import HeroView from "@/components/page-du-site/home-page/hero-section/hero-section";

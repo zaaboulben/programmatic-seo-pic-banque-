@@ -25,7 +25,7 @@ export default function MainButton( {
             disabled={disabled}
             onClick={onClick}
             asChild={asChild}
-            className={cn("h-10 pl-6 pr-6 pt-3 pb-3 transition-all ring-2 ring-background-main relative overflow-hidden duration-200 ease-in rounded-[8px] antialiased text-text-secondary bg-background-main-button font-sans font-semibold text-[18px] border-background-main shadow-xl shadow-background-main hover:bg-black  ",
+            className={cn("h-10 pl-6 pr-6 pt-3 pb-3 transition-all  relative overflow-hidden duration-200 ease-in rounded-[8px] antialiased text-text-secondary bg-background-main-button font-sans font-semibold text-[18px] border-background-main  hover:bg-black  ",
                 className
             )}
         >

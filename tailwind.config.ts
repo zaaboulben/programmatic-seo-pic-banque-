@@ -27,6 +27,16 @@ const config: Config = {
       },
 
       colors: {
+        'ligtest': 'var(--color-ligtest)',
+        'light': 'var(--color-light)',
+        'brand': 'var(--color-brand)',
+        'mid': 'var(--color-mid)',
+        'dark': 'var(--color-dark)',
+        'darkest': 'var(--color-darkest)',
+        'black': 'var(--color-black)',
+        'star': 'var(--color-star)',
+
+
         'background-top-bar': 'var(--color-background-top-bar)',
         'background-navbar': 'var(--color-background-navbar)',
         'background-main': 'var(--color-background-main)',
@@ -46,17 +56,17 @@ const config: Config = {
         'border-primary': 'var(--color-border-primary)',
         'border-secondary': 'var(--color-border-secondary)',
       },
-      backgroundImage:{
-          'hero-section-bg':"url('/hero-section-bg/hero-section-bg.webp')",
+      backgroundImage: {
+        'hero-section-bg': "url('/hero-section-bg/hero-section-bg.webp')",
 
 
       }
-      
-      
 
-     
+
+
+
     },
-    
+
   },
   plugins: [],
 };
