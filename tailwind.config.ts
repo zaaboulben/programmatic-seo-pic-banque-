@@ -35,7 +35,7 @@ const config: Config = {
         'darkest': 'var(--color-darkest)',
         'black': 'var(--color-black)',
         'star': 'var(--color-star)',
-
+        'hero-section-semi-opacity': 'var(--color-hero-section-semi-opacity)',
 
         'background-top-bar': 'var(--color-background-top-bar)',
         'background-navbar': 'var(--color-background-navbar)',

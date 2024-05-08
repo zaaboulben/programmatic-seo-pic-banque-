@@ -35,7 +35,7 @@ body {
       --color-darkest: #0f172a;
       --color-black: #000000;
       --color-star: #ffc700;
-
+      --color-hero-section-semi-opacity: rgba(0, 0, 0, 0.7);
       --color-background-top-bar: #304065;
       --color-background-navbar: #ffffff;
       --color-background-main: #ffffff;

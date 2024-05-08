@@ -7,7 +7,7 @@ export default function MainResearch(){
 
 
     return(
-        <>     <div className="flex bg-background-main   rounded-md p-1 w-[773px]" >
+        <>     <div className="flex bg-background-main   rounded-md p-1 w-full" >
 
         <Input lang="fr" autoComplete="google_chrome_fix" type="text" placeholder="Recherche" >
 
